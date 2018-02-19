@@ -1,2 +1,3 @@
 # simple1
 push test, I hope it will work...
+It works, it worked I'm happy,    .....  on win 8.1 the power shell doesn't ask the usernae and password, but with win10 it happened, finally! it was only one day in my life.... with these 'easy' problem! :)
